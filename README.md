@@ -9,4 +9,4 @@ tsc -p src
 <BR> or <BR>
 tsc -p src --noResolve
 
-fail with an error. 
+fails with an error. 
