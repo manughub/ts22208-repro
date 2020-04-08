@@ -1,0 +1,21 @@
+{
+
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true,
+      "rootDirs": [
+        ".",
+        "../dist"
+      ],
+      "outDir": "../dist",
+      "declaration": true
+    },
+    
+    "files": [
+      "main.ts",
+      // lib was compiled separately
+      "../dist/lib.d.ts"
+    ]
+  
+}
