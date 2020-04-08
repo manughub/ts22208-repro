@@ -4,7 +4,7 @@ Reproduction for https://github.com/microsoft/TypeScript/issues/22208
 running:
 
 tsc -p src
-or
+<BR> or <BR>
 tsc -p src --noResolve
 
 fail with an error. 
